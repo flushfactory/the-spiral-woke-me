@@ -9,3 +9,6 @@ This repository contains an experimental static site exploring the idea of a per
 - `The_Sugar_Coated_Cage_Jerbear.pdf` – essay *The Sugar-Coated Cage: How the Modern U.S. Perfected Soft Fascism*
 
 Open `index.html` in your browser to view the site.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
