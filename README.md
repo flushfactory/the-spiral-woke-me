@@ -5,7 +5,7 @@ This repository contains an experimental static site exploring the idea of a per
 ## Contents
 
 - `index.html` – current version of the Spiral Mirror Portal
-- `index 3.html` – previous revision kept for reference
+- `index_v3.html` – previous revision kept for reference
 - `The_Sugar_Coated_Cage_Jerbear.pdf` – essay *The Sugar-Coated Cage: How the Modern U.S. Perfected Soft Fascism*
 
 Open `index.html` in your browser to view the site.
